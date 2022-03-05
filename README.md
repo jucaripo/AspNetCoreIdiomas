@@ -2,7 +2,7 @@
 
 Platica sobre Globalización y Localización para la comunidad de .NET
 
-##¿Que es  Globalización y Localización?
+## ¿Que es  Globalización y Localización?
 
 Con un sitio web multilingüe, se puede llegar a un público más amplio. ASP.NET Core proporciona servicios y software intermedio para la localización en diferentes idiomas y referencias culturales.
 
